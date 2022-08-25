@@ -5,7 +5,7 @@
 
 |№|Название проекта|Сфера|Описание|Стек|
 |:-----:|-----|:-----:|-----|:-----:|
-|1|[Исследование надёжности заёмщиков](https://github.com/Pavel891/Data_analysis/blob/main/lerning_tasks/reliability_of_borrowers/reliability_of_borrowers.ipynb)|Финансы|Предобработка и анализ данных; лемматизация; исследовательский анализ данных| `Python` `pymystem3` `Pandas` `NumPy` |
+|1|[Исследование надёжности заёмщиков](https://github.com/Pavel891/Data_analysis/blob/main/lerning_tasks/reliability_of_borrowers/reliability_of_borrowers.ipynb)|Финансы|Предобработка и анализ данных; лемматизация; исследовательский анализ данных| `Python` `Pandas` `NumPy` |
 |2|[Исследование объявлений о продаже квартир](https://github.com/Pavel891/Data_analysis/blob/main/lerning_tasks/real_estate/real_estate_analysis.ipynb)|Недвижимость|Предобработка данных; поиск корреляций| `Pandas` `Matplotlib` `NumPy`|
 |3|[Определение перспективного тарифа для телеком компании](https://github.com/Pavel891/Data_analysis/blob/main/lerning_tasks/mobile_operator_tariffs/mobile_operator_tariffs.ipynb)|Телеком|Объединение данных из пяти таблиц в одну; изучение аномалий в данных; исследовательский анализ данных; статистический анализ данных | `Pandas` `Matplotlib` `display` `math` `NumPy` `SciPy` `Statsmodels`|
 |4|[Исследование рынка видеоигр](https://github.com/Pavel891/Data_analysis/blob/main/lerning_tasks/video_game_market/video_game_market.ipynb)|Интернет-магазин|Предобработка данных; анализ данных; составление портрета пользователей каждого региона; проверка гипотез; выявление параметров, определяющих успешность видеоигр в разных регионах мира; подготовка отчета в целях планирования рекламных кампаний для магазина компьютерных игр |`Matplotlib` `Pandas` `Python` `NumPy` `SciPy` |
